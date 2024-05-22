@@ -4,9 +4,7 @@ A simple contact formulary. Made with Vite - React + TypeScript.
 
 ## How It Works
 
-Validation: all inputs have a validation.
-Button: submit the form.
-Message: a message that appears when the form is succesfully submitted.
+All inputs have a validation. When all of them are filled correctly, the button submits the form, reseting the inputs and showing the success message. If the inputs are no filled correctly, the errors are shown and the button will not submit the form.
 
 ### Screenshot
 
