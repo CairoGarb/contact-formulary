@@ -302,7 +302,7 @@ export const App = () => {
         {messageSent && (
           <div className="message_sent_container">
             <div className="image_text">
-              <img src="./icon-success-check.svg" alt="success icon" />
+              <img src="./icon-success-check_png.png" alt="success icon" />
               <span>Message Sent!</span>
             </div>
             <div className="subtext">
